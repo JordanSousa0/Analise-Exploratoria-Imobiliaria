@@ -76,6 +76,6 @@ Uma matriz de correlação foi gerada para investigar relações entre as princi
 # 📌 Conclusões Finais
 
 - O mercado de aluguel no Rio de Janeiro é fortemente centrado em apartamentos, o que justifica a segmentação e especialização da análise.
-- As variáveis **área**, **IPTU** e **suítes** são as que mais influenciam o valor do aluguel.
+- As variáveis **área**, **IPTU** e **suítes** e **região** são as que mais influenciam o valor do aluguel.
 - O processo de limpeza, categorização e análise de correlação forneceu uma base sólida para futuros modelos preditivos ou tomadas de decisão no setor.
 - As técnicas de visualização utilizadas facilitaram a interpretação e comunicação dos dados, apoiando **insights estratégicos com clareza**.
